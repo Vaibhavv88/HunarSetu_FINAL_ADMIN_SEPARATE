@@ -1,0 +1,85 @@
+{
+  "counsellor_profiles": [
+    {
+      "id": "COUNS-101",
+      "name": "Dr. Priya Sharma",
+      "email": "counsellor@hunarsetu.gov.in",
+      "phone": "+91 94150 12345",
+      "qualification": "Ph.D. in Vocational Pedagogy, M.A. Psychology",
+      "certification": "NCVET / NSDC Master Career Guide Certification",
+      "badgeId": "NSDC-CERT-4891",
+      "experienceYears": 7,
+      "specialization": [
+        "Vocational Education (NSQF 4-7)",
+        "Career Planning & Mobility",
+        "Parent-Student Conflict Mediation",
+        "Lateral B.Tech & Polytechnic Pathways"
+      ],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "bio": "Certified Career Counsellor with 7+ years guiding students and families across Uttar Pradesh into high-demand technical vocations, apprenticeships, and NEP degree pathways.",
+      "verificationStatus": "Verified",
+      "verificationDate": "15 Jan 2026",
+      "isActive": true,
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "hours": "10:00 AM – 06:00 PM",
+        "slotDurationMinutes": 30
+      }
+    },
+    {
+      "id": "COUNS-102",
+      "name": "Er. Rajesh Kumar Maurya",
+      "email": "rajesh.maurya@hunarsetu.gov.in",
+      "phone": "+91 98390 67890",
+      "qualification": "B.Tech Mechanical, DGT Certified Trainer",
+      "certification": "DGT Master Skilling Guide",
+      "badgeId": "DGT-MED-7712",
+      "experienceYears": 6,
+      "specialization": [
+        "Drone Assembly & Remote Piloting",
+        "Automotive CNC",
+        "Railway Technical Cadre"
+      ],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "bio": "Technical engineering mentor guiding youth from Purvanchal into precision machining and emerging drone careers.",
+      "verificationStatus": "Verified",
+      "verificationDate": "02 Mar 2026",
+      "isActive": true,
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "hours": "11:00 AM – 05:00 PM",
+        "slotDurationMinutes": 30
+      }
+    }
+  ],
+  "counselling_requests": [],
+  "counselling_cases": [],
+  "counselling_messages": [],
+  "counsellor_notes": [],
+  "counselling_followups": [],
+  "counselling_calls": [],
+  "counselling_notifications": []
+}

@@ -1,0 +1,1104 @@
+{
+  "users": [
+    {
+      "id": "USR-COUNS-101",
+      "name": "Dr. Priya Sharma",
+      "email": "counsellor@hunarsetu.gov.in",
+      "role": "COUNSELLOR",
+      "phone": "+91 94150 12345",
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "status": "Active",
+      "registrationDate": "2026-01-15",
+      "lastActive": "Just Now",
+      "details": {
+        "badgeId": "NSDC-CERT-4891",
+        "specialization": [
+          "Vocational Education (NSQF 4-7)",
+          "Parent-Student Conflict Mediation",
+          "Lateral B.Tech Pathways"
+        ]
+      }
+    },
+    {
+      "id": "USR-COUNS-102",
+      "name": "Er. Rajesh Kumar Maurya",
+      "email": "rajesh.maurya@hunarsetu.gov.in",
+      "role": "COUNSELLOR",
+      "phone": "+91 98390 67890",
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "status": "Active",
+      "registrationDate": "2026-03-02",
+      "lastActive": "Today",
+      "details": {
+        "badgeId": "DGT-MED-7712",
+        "specialization": [
+          "Drone Assembly",
+          "Automotive CNC",
+          "Railway Technical Cadre"
+        ]
+      }
+    },
+    {
+      "id": "USR-COUNS-103",
+      "name": "Anjali Deshmukh",
+      "email": "anjali.deshmukh@gmail.com",
+      "role": "COUNSELLOR",
+      "phone": "+91 98230 45678",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "status": "Pending Verification",
+      "registrationDate": "2026-02-12",
+      "lastActive": "1 day ago",
+      "details": {
+        "badgeId": "MSDE-PEND-3011",
+        "specialization": [
+          "EV Powertrain Tech",
+          "Industrial Electronics"
+        ]
+      }
+    },
+    {
+      "id": "USR-ADM-001",
+      "name": "National Admin Desk",
+      "email": "admin@hunarsetu.gov.in",
+      "role": "ADMIN",
+      "phone": "+91 11 2345 6789",
+      "state": "National",
+      "district": "New Delhi",
+      "status": "Active",
+      "registrationDate": "2026-01-01",
+      "lastActive": "Just Now"
+    }
+  ],
+  "career_profiles": [
+    {
+      "id": "solar-technician",
+      "title": "Solar PV System Installation & Maintenance Technician",
+      "titleHi": "सोलर पीवी सिस्टम इंस्टॉलेशन एवं मेंटेनेंस तकनीशियन",
+      "sector": "Green Energy / Renewables",
+      "sectorHi": "हरित ऊर्जा / नवीकरणीय ऊर्जा",
+      "nsqfLevel": 4,
+      "durationMonths": 6,
+      "eligibility": "Class 10th Passed (or 8th with 2yr ITI electrical background)",
+      "eligibilityHi": "10वीं कक्षा उत्तीर्ण (या 8वीं + 2 वर्ष का आईटीआई इलेक्ट्रिकल)",
+      "salary": {
+        "entryLevel": "₹16,000 - ₹22,000 / month",
+        "midLevel3Yr": "₹28,000 - ₹38,000 / month",
+        "senior5Yr": "₹50,000 - ₹75,000+ / month",
+        "selfEmployedPotential": "₹60,000 - ₹1,20,000 / month (Solar Agency/EPC Contractor)"
+      },
+      "jobRoles": [
+        "Solar Rooftop Installer",
+        "Solar O&M Technician",
+        "Solar Site Supervisor",
+        "Renewable Energy Micro-Entrepreneur"
+      ],
+      "keySkills": [
+        "Solar Panel Mounting",
+        "Inverter Wiring",
+        "Net Metering Protocols",
+        "Battery Storage Testing",
+        "Safety Compliance"
+      ],
+      "degreeProgression": "Eligible for Diploma in Electrical/Renewable Energy (Lateral Entry 2nd Yr) -> B.Voc in Green Technology -> B.Tech Electrical.",
+      "safetyNote": "Standardized safety training with fall arrest harnesses, insulated PPE kits, and high-voltage cutoffs under MNRE guidelines.",
+      "socialPerceptionRebuttal": "Clean, modern engineering technology job. Government recognizes solar technicians as \"Suryamitra\" with high societal respect.",
+      "localDemandClusters": [
+        "Kanpur Nagar",
+        "Varanasi",
+        "Jaipur",
+        "Pune",
+        "Surat",
+        "Patna",
+        "Indore"
+      ],
+      "dataSource": "Skill Council for Green Jobs (SCGJ) & NCVET Annual Tracer Survey",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "electrician",
+      "title": "Industrial & Domestic Electrician",
+      "titleHi": "औद्योगिक एवं घरेलू इलेक्ट्रीशियन",
+      "sector": "Power & Electrical",
+      "sectorHi": "विद्युत एवं ऊर्जा क्षेत्र",
+      "nsqfLevel": 5,
+      "durationMonths": 24,
+      "eligibility": "Class 10th Passed with Science & Maths",
+      "eligibilityHi": "10वीं पास (गणित और विज्ञान विषयों के साथ)",
+      "salary": {
+        "entryLevel": "₹15,000 - ₹20,000 / month",
+        "midLevel3Yr": "₹26,000 - ₹36,000 / month",
+        "senior5Yr": "₹48,000 - ₹70,000+ / month",
+        "selfEmployedPotential": "₹50,000 - ₹1,10,000 / month (Govt License Wiring & Contracts)"
+      },
+      "jobRoles": [
+        "Industrial Plant Electrician",
+        "Substation Wireman",
+        "Electrical Maintenance Supervisor",
+        "Certified Class-A Electrical Contractor"
+      ],
+      "keySkills": [
+        "Single & Three-Phase Wiring",
+        "PLC Basics",
+        "Transformer Testing",
+        "AC/DC Motors",
+        "Circuit Breakers"
+      ],
+      "degreeProgression": "Direct Lateral Entry into 2nd year Polytechnic Electrical Engineering -> B.Tech (Electrical) -> AMIE.",
+      "safetyNote": "Compulsory NFPA 70E lockout-tagout (LOTO) protocols, earth fault detection, and arc flash gear.",
+      "socialPerceptionRebuttal": "Unlike informal roadside handymen, an ITI Certified Electrician gets recognized government license (Form L) and permanent industrial job cadre.",
+      "localDemandClusters": [
+        "Kanpur Nagar",
+        "Ghaziabad",
+        "Pune",
+        "Surat",
+        "Ludhiana",
+        "Bengaluru",
+        "Coimbatore"
+      ],
+      "dataSource": "Directorate General of Training (DGT) ITI Placement Records",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "ev-technician",
+      "title": "Electric Vehicle (EV) Powertrain & Battery Service Technician",
+      "titleHi": "इलेक्ट्रिक वाहन (EV) बैटरी एवं पॉवरट्रेन सर्विस तकनीशियन",
+      "sector": "Automotive & Future Mobility",
+      "sectorHi": "ऑटोमोटिव एवं फ्यूचर मोबिलिटी",
+      "nsqfLevel": 4,
+      "durationMonths": 6,
+      "eligibility": "Class 12th Passed / 10th + ITI (Motor Mechanic / Electrician)",
+      "eligibilityHi": "12वीं पास / 10वीं + आईटीआई (मोटर मैकेनिक या इलेक्ट्रीशियन)",
+      "salary": {
+        "entryLevel": "₹18,000 - ₹24,000 / month",
+        "midLevel3Yr": "₹32,000 - ₹45,000 / month",
+        "senior5Yr": "₹55,000 - ₹85,000+ / month",
+        "selfEmployedPotential": "₹75,000 - ₹1,50,000 / month (Authorized EV Battery & Retrofitting Center)"
+      },
+      "jobRoles": [
+        "EV Service Technician",
+        "BMS Battery Pack Diagnostics Specialist",
+        "EV Charging Station Maintenance Officer",
+        "EV Conversion & Fleet Specialist"
+      ],
+      "keySkills": [
+        "Lithium Battery Testing",
+        "CAN-Bus Diagnostics",
+        "BLDC Motor Inverters",
+        "DC Fast Charger Wiring",
+        "Telematics"
+      ],
+      "degreeProgression": "Polytechnic in Automobile / Mechatronics Engineering (Lateral Entry) -> B.Voc EV Technology.",
+      "safetyNote": "Class 0 insulated toolsets (up to 1000V DC), fire containment blankets, and high-voltage isolation training.",
+      "socialPerceptionRebuttal": "High-tech, air-conditioned service environment replacing old greasy garages with computer diagnostic scanners and digital scopes.",
+      "localDemandClusters": [
+        "Pune",
+        "Noida",
+        "Gurugram",
+        "Bengaluru",
+        "Chennai",
+        "Ahmedabad",
+        "Lucknow"
+      ],
+      "dataSource": "Automotive Skills Development Council (ASDC) Skill Report",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "drone-technician",
+      "title": "Drone Assembly, Repair & Precision Agriculture Pilot",
+      "titleHi": "ड्रोन असेंबली, मेंटेनेंस एवं कृषि पायलट तकनीशियन",
+      "sector": "Aerospace & Aviation",
+      "sectorHi": "एयरोस्पेस एवं एविएशन",
+      "nsqfLevel": 4,
+      "durationMonths": 6,
+      "eligibility": "Class 10th / 12th Passed",
+      "eligibilityHi": "10वीं अथवा 12वीं कक्षा उत्तीर्ण",
+      "salary": {
+        "entryLevel": "₹18,000 - ₹26,000 / month",
+        "midLevel3Yr": "₹35,000 - ₹50,000 / month",
+        "senior5Yr": "₹60,000 - ₹95,000+ / month",
+        "selfEmployedPotential": "₹60,000 - ₹1,40,000 / month (Per-Acre Farm Spraying & GIS Surveying)"
+      },
+      "jobRoles": [
+        "DGCA Certified Remote Drone Pilot",
+        "Drone Maintenance & Hardware Technician",
+        "Geospatial Survey Specialist",
+        "Drone Entrepreneur / Custom Hiring Center Operator"
+      ],
+      "keySkills": [
+        "UAV Avionics",
+        "Soldering & ESC Tuning",
+        "DGCA Regulations",
+        "GIS Mapping Software",
+        "Battery Lifecycle Mgmt"
+      ],
+      "degreeProgression": "Polytechnic Diploma in Electronics / Avionics -> B.Sc / B.Voc in Geoinformatics & Remote Sensing.",
+      "safetyNote": "No heavy manual labor. Strict DGCA flight zone guidelines, automated geofencing, and fail-safe return-to-home algorithms.",
+      "socialPerceptionRebuttal": "Held in high regard in rural and urban areas alike; recognized as a modern technical pilot commanding respect and tech admiration.",
+      "localDemandClusters": [
+        "Varanasi",
+        "Lucknow",
+        "Indore",
+        "Nagpur",
+        "Hyderabad",
+        "Bathinda",
+        "Jaipur"
+      ],
+      "dataSource": "Aerospace and Aviation Sector Skill Council (AASSC) Survey",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "cnc-machinist",
+      "title": "CNC Machining & Precision Tooling Operator",
+      "titleHi": "सीएनसी मशीनिंग एवं प्रिसिजन टूलिंग ऑपरेटर",
+      "sector": "Capital Goods & Precision Manufacturing",
+      "sectorHi": "विनिर्माण एवं प्रिसिजन इंजीनियरिंग",
+      "nsqfLevel": 4,
+      "durationMonths": 12,
+      "eligibility": "Class 10th Passed with Science & Math",
+      "eligibilityHi": "10वीं पास (विज्ञान एवं गणित विषय सहित)",
+      "salary": {
+        "entryLevel": "₹15,000 - ₹20,000 / month",
+        "midLevel3Yr": "₹26,000 - ₹38,000 / month",
+        "senior5Yr": "₹48,000 - ₹72,000+ / month",
+        "selfEmployedPotential": "₹70,000 - ₹1,80,000 / month (Job-Work Machine Shop)"
+      },
+      "jobRoles": [
+        "CNC Lathe / Milling Operator",
+        "CAM Programming Assistant",
+        "Quality Inspection & CMM Technician",
+        "Production Line Supervisor"
+      ],
+      "keySkills": [
+        "G-Code & M-Code Programming",
+        "CAD/CAM Basics",
+        "Micrometer/Vernier Measurement",
+        "Tool Offset Setting",
+        "Quality Control"
+      ],
+      "degreeProgression": "Polytechnic Diploma in Mechanical / Production Engineering (Lateral Entry) -> B.Tech Mechanical.",
+      "safetyNote": "Fully enclosed modern machines with optical safety curtains, emergency interlocks, and coolant mist extractors.",
+      "socialPerceptionRebuttal": "Requires mental acumen in CAD drawings, micrometers, and G-codes. Not manual hammering, but computerized high-tech machining.",
+      "localDemandClusters": [
+        "Pune",
+        "Rajkot",
+        "Kanpur Nagar",
+        "Ludhiana",
+        "Coimbatore",
+        "Faridabad",
+        "Aurangabad"
+      ],
+      "dataSource": "Capital Goods Skill Council (CGSC) Data",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "healthcare-gda",
+      "title": "Healthcare General Duty Assistant & Emergency Care Associate",
+      "titleHi": "स्वास्थ्य सेवा जनरल ड्यूटी असिस्टेंट (GDA) एवं इमरजेंसी केयर",
+      "sector": "Healthcare & Life Sciences",
+      "sectorHi": "स्वास्थ्य एवं चिकित्सा सेवाएं",
+      "nsqfLevel": 4,
+      "durationMonths": 6,
+      "eligibility": "Class 10th / 12th Passed",
+      "eligibilityHi": "10वीं अथवा 12वीं कक्षा उत्तीर्ण",
+      "salary": {
+        "entryLevel": "₹14,000 - ₹19,000 / month",
+        "midLevel3Yr": "₹22,000 - ₹32,000 / month",
+        "senior5Yr": "₹38,000 - ₹55,000+ / month",
+        "selfEmployedPotential": "₹40,000 - ₹80,000 / month (Senior Care Agency / Home-Nursing Coordinator)"
+      },
+      "jobRoles": [
+        "Hospital Ward GDA",
+        "Home Healthcare Attendant",
+        "ICU Patient Care Support",
+        "Dialysis / Clinic Assistant"
+      ],
+      "keySkills": [
+        "Vital Signs Monitoring",
+        "Infection Control",
+        "First Aid & CPR",
+        "Patient Mobility",
+        "Medical Waste Handling"
+      ],
+      "degreeProgression": "Bridge course into GNM (General Nursing and Midwifery) -> B.Sc Nursing / B.Voc Hospital Administration.",
+      "safetyNote": "Bio-safety protocols, PPE gloves, immunization shots (Hepatitis B), and sanitized hospital conditions.",
+      "socialPerceptionRebuttal": "Viewed with deep gratitude and emotional respect by patients and communities as healthcare frontline professionals.",
+      "localDemandClusters": [
+        "Varanasi",
+        "Kanpur Nagar",
+        "Patna",
+        "Lucknow",
+        "Jaipur",
+        "Pune",
+        "Bhopal"
+      ],
+      "dataSource": "Healthcare Sector Skill Council (HSSC) National Placement Survey",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "welder-fabricator",
+      "title": "Advanced Welder & Structural Fabricator (TIG/MIG & Pipe)",
+      "titleHi": "एडवांस्ड वेल्डर एवं स्ट्रक्चरल फैब्रिकेटर (TIG/MIG/पाइप वेल्डिंग)",
+      "sector": "Fabrication & Infrastructure",
+      "sectorHi": "फैब्रिकेशन एवं भारी उद्योग",
+      "nsqfLevel": 4,
+      "durationMonths": 12,
+      "eligibility": "Class 8th / 10th Passed",
+      "eligibilityHi": "8वीं अथवा 10वीं कक्षा उत्तीर्ण",
+      "salary": {
+        "entryLevel": "₹16,000 - ₹22,000 / month",
+        "midLevel3Yr": "₹30,000 - ₹45,000 / month",
+        "senior5Yr": "₹55,000 - ₹90,000+ / month (₹1.5L+ in Gulf/Overseas)",
+        "selfEmployedPotential": "₹60,000 - ₹1,50,000 / month (Industrial Fabrication Workshop)"
+      },
+      "jobRoles": [
+        "Certified Pressure Vessel Welder",
+        "Structural Steel Fabricator",
+        "NDT / Welding Quality Inspector",
+        "Custom Metal Fabrication Contractor"
+      ],
+      "keySkills": [
+        "TIG & MIG Techniques",
+        "Weld Blueprint Reading",
+        "Pipe Joint Testing",
+        "Metal Metallurgy",
+        "NDT Testing Basics"
+      ],
+      "degreeProgression": "Polytechnic Diploma in Metallurgy / Production Engineering -> B.Voc Welding Tech -> CSWIP Inspector Certification.",
+      "safetyNote": "Auto-darkening electronic welding helmets, leather aprons, fume exhaust vents, and heat-resistant spats.",
+      "socialPerceptionRebuttal": "High-skilled TIG welders earn comparable or higher salaries than average corporate white-collar desk workers, with massive Gulf overseas exportability.",
+      "localDemandClusters": [
+        "Kanpur Nagar",
+        "Visakhapatnam",
+        "Surat",
+        "Jamshedpur",
+        "Vadodara",
+        "Bhilai",
+        "Chennai"
+      ],
+      "dataSource": "Indian Welding Society (IWS) & DGT Skill Surveys",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "it-network-technician",
+      "title": "IT Hardware, Networking & Cybersecurity Support Assistant",
+      "titleHi": "आईटी हार्डवेयर, नेटवर्किंग एवं साइबर सुरक्षा सपोर्ट सहायक",
+      "sector": "Information Technology & Electronics",
+      "sectorHi": "सूचना प्रौद्योगिकी एवं डिजिटल सेवाएं",
+      "nsqfLevel": 5,
+      "durationMonths": 12,
+      "eligibility": "Class 12th Passed (Any Stream)",
+      "eligibilityHi": "12वीं कक्षा उत्तीर्ण (किसी भी विषय से)",
+      "salary": {
+        "entryLevel": "₹15,000 - ₹21,000 / month",
+        "midLevel3Yr": "₹28,000 - ₹40,000 / month",
+        "senior5Yr": "₹50,000 - ₹75,000+ / month",
+        "selfEmployedPotential": "₹45,000 - ₹1,00,000 / month (IT AMC Contracts & CCTV Installation)"
+      },
+      "jobRoles": [
+        "Desktop Support Engineer",
+        "Network Support Technician",
+        "CCTV & Surveillance System Installer",
+        "CSC Digital Services Center Owner"
+      ],
+      "keySkills": [
+        "LAN/WAN Configuration",
+        "OS Installation & Troubleshooting",
+        "CCTV IP Cameras",
+        "Router & Switch Setup",
+        "Cyber Hygiene"
+      ],
+      "degreeProgression": "Polytechnic Diploma in Computer Science / IT (Lateral Entry) -> BCA -> MCA / B.Tech CSE.",
+      "safetyNote": "Completely indoor, air-conditioned corporate and office environment. Zero physical hazard.",
+      "socialPerceptionRebuttal": "Parents seeking prestigious \"computer desk jobs\" find this ideal; clean professional corporate setting with immediate post-course employment.",
+      "localDemandClusters": [
+        "Lucknow",
+        "Kanpur Nagar",
+        "Jaipur",
+        "Patna",
+        "Pune",
+        "Indore",
+        "Noida"
+      ],
+      "dataSource": "IT-ITeS Sector Skills Council (NASSCOM) Employability Report",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "food-processing-technician",
+      "title": "Food Processing, Quality Testing & Dairy Plant Technician",
+      "titleHi": "खाद्य प्रसंस्करण, गुणवत्ता जांच एवं डेयरी प्लांट तकनीशियन",
+      "sector": "Food Processing & Agribusiness",
+      "sectorHi": "खाद्य प्रसंस्करण एवं कृषि उद्योग",
+      "nsqfLevel": 4,
+      "durationMonths": 6,
+      "eligibility": "Class 10th / 12th Passed",
+      "eligibilityHi": "10वीं अथवा 12वीं कक्षा उत्तीर्ण",
+      "salary": {
+        "entryLevel": "₹14,000 - ₹18,000 / month",
+        "midLevel3Yr": "₹24,000 - ₹34,000 / month",
+        "senior5Yr": "₹42,000 - ₹65,000+ / month",
+        "selfEmployedPotential": "₹50,000 - ₹1,30,000 / month (PMFME Supported Food Brand / Dairy Unit)"
+      },
+      "jobRoles": [
+        "Food Plant Machine Operator",
+        "Quality Control & Lab Assistant",
+        "Cold Chain Packaging Operator",
+        "Micro-Food Enterprise Owner (Pickles, Spices, Bakery, Dairy)"
+      ],
+      "keySkills": [
+        "FSSAI Standards",
+        "Pasteurization & Sterilization",
+        "Packaging Machinery",
+        "Quality Testing (pH/Brix)",
+        "HACCP Safety"
+      ],
+      "degreeProgression": "Polytechnic Diploma in Food Technology -> B.Voc Food Processing -> B.Sc Food Tech.",
+      "safetyNote": "Sterile, clean sanitary conditions following FSSAI and HACCP standards.",
+      "socialPerceptionRebuttal": "Directly aligns with agricultural families wanting their children to add value to farming produce without migrating far.",
+      "localDemandClusters": [
+        "Kanpur Nagar",
+        "Varanasi",
+        "Surat",
+        "Nashik",
+        "Anand",
+        "Indore",
+        "Ludhiana"
+      ],
+      "dataSource": "Food Industry Capacity & Skill Initiative (FICSI) Report",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "automotive-service-tech",
+      "title": "Automotive Service, Engine Overhaul & Diagnostics Specialist",
+      "titleHi": "ऑटोमोटिव सर्विस, इंजन ओवरहाल एवं डायग्नोस्टिक्स विशेषज्ञ",
+      "sector": "Automotive",
+      "sectorHi": "ऑटोमोबाइल उद्योग",
+      "nsqfLevel": 4,
+      "durationMonths": 12,
+      "eligibility": "Class 10th Passed",
+      "eligibilityHi": "10वीं कक्षा उत्तीर्ण",
+      "salary": {
+        "entryLevel": "₹15,000 - ₹20,000 / month",
+        "midLevel3Yr": "₹26,000 - ₹38,000 / month",
+        "senior5Yr": "₹48,000 - ₹75,000+ / month",
+        "selfEmployedPotential": "₹60,000 - ₹1,40,000 / month (Independent Car Care & Repair Centre)"
+      },
+      "jobRoles": [
+        "Dealership Service Technician",
+        "Diagnostic Scanner Specialist",
+        "Engine Overhaul Master",
+        "Automotive Workshop Owner"
+      ],
+      "keySkills": [
+        "OBD-II Scanning",
+        "Engine Timing & Overhauls",
+        "ABS Braking Systems",
+        "Suspension Tuning",
+        "Customer Diagnosis"
+      ],
+      "degreeProgression": "Polytechnic Diploma in Automobile Engineering (Lateral Entry) -> B.Voc Automobile.",
+      "safetyNote": "Hydraulic ramp locks, eye protection shields, and exhaust ventilation hoses.",
+      "socialPerceptionRebuttal": "Authorized dealership jobs provide formal branded uniforms, air-conditioned service lounges, health insurance, and structured annual increments.",
+      "localDemandClusters": [
+        "Pune",
+        "Gurugram",
+        "Kanpur Nagar",
+        "Ahmedabad",
+        "Chennai",
+        "Jaipur",
+        "Patna"
+      ],
+      "dataSource": "Automotive Skills Development Council (ASDC) Placement Tracer",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "beauty-wellness-associate",
+      "title": "Beauty, Hair Styling & Wellness Therapy Associate",
+      "titleHi": "ब्यूटी, हेयर स्टाइलिंग एवं वेलनेस थेरेपी एसोसिएट",
+      "sector": "Beauty & Wellness",
+      "sectorHi": "सौंदर्य एवं वेलनेस उद्योग",
+      "nsqfLevel": 4,
+      "durationMonths": 6,
+      "eligibility": "Class 8th / 10th Passed",
+      "eligibilityHi": "8वीं अथवा 10वीं कक्षा उत्तीर्ण",
+      "salary": {
+        "entryLevel": "₹14,000 - ₹20,000 / month",
+        "midLevel3Yr": "₹28,000 - ₹42,000 / month",
+        "senior5Yr": "₹50,000 - ₹85,000+ / month",
+        "selfEmployedPotential": "₹40,000 - ₹1,50,000 / month (Bridal Season Earnings can exceed ₹2-3 Lakhs)"
+      },
+      "jobRoles": [
+        "Bridal Makeup Artist",
+        "Hair Stylist & Chemical Treatment Specialist",
+        "Skin Care & Aesthetic Consultant",
+        "Salon & Parlour Entrepreneur"
+      ],
+      "keySkills": [
+        "Bridal Makeup Art",
+        "Skin Analysis & Treatments",
+        "Hair Colour & Smoothing",
+        "Sterilization",
+        "Salon Client Management"
+      ],
+      "degreeProgression": "Advanced Diploma in Cosmetology & Wellness -> B.Voc in Cosmetology & Aesthetic Sciences.",
+      "safetyNote": "Dermatologically tested cosmetic kits, hygiene autoclaves, and skin-patch test compliance.",
+      "socialPerceptionRebuttal": "Bridal artists and professional cosmetologists are celebrated in wedding seasons and society with high cash flow and independent entrepreneurial dignity.",
+      "localDemandClusters": [
+        "Varanasi",
+        "Kanpur Nagar",
+        "Jaipur",
+        "Lucknow",
+        "Pune",
+        "Surat",
+        "Patna"
+      ],
+      "dataSource": "Beauty & Wellness Sector Skill Council (B&WSSC)",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "garment-fashion-tech",
+      "title": "Apparel Pattern Making & Computerized Sewing Machine Operator",
+      "titleHi": "परिधान पैटर्न मेकिंग एवं कम्प्यूटरीकृत सिलाई मशीन ऑपरेटर",
+      "sector": "Apparel, Made-Ups & Home Furnishing",
+      "sectorHi": "वस्त्र उद्योग एवं परिधान निर्माण",
+      "nsqfLevel": 4,
+      "durationMonths": 6,
+      "eligibility": "Class 8th / 10th Passed",
+      "eligibilityHi": "8वीं अथवा 10वीं कक्षा उत्तीर्ण",
+      "salary": {
+        "entryLevel": "₹13,000 - ₹17,000 / month",
+        "midLevel3Yr": "₹22,000 - ₹32,000 / month",
+        "senior5Yr": "₹38,000 - ₹58,000+ / month",
+        "selfEmployedPotential": "₹40,000 - ₹1,00,000 / month (Custom Boutique / Uniform Manufacturing)"
+      },
+      "jobRoles": [
+        "Industrial Sewing Machine Operator",
+        "Apparel Quality Checker",
+        "Pattern Maker & CAD Marker Assistant",
+        "Custom Designer Boutique Owner"
+      ],
+      "keySkills": [
+        "Industrial Lockstitch",
+        "Pattern Drafting",
+        "Fabric Quality Inspection",
+        "Garment Finishing",
+        "Cost Estimation"
+      ],
+      "degreeProgression": "Polytechnic Diploma in Garment Manufacturing / Fashion Technology -> B.Voc Fashion Design.",
+      "safetyNote": "Finger guards on needles, eye shields, dust masks, and ergonomic seating.",
+      "socialPerceptionRebuttal": "High demand for specialized tailoring and designer boutiques ensures you can earn right from your village or town with minimal capital.",
+      "localDemandClusters": [
+        "Surat",
+        "Kanpur Nagar",
+        "Jaipur",
+        "Noida",
+        "Ludhiana",
+        "Tirupur",
+        "Varanasi"
+      ],
+      "dataSource": "Apparel Made-Ups and Home Furnishing Sector Skill Council (AMHSSC)",
+      "dataYear": 2026,
+      "sourceUrl": "https://ncvet.gov.in",
+      "evidenceType": "NCVET Tracer Study",
+      "status": "Published",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-02-15T00:00:00.000Z"
+    }
+  ],
+  "career_skills": [
+    {
+      "id": "SKILL-01",
+      "name": "Solar Panel Mounting & Alignment",
+      "category": "Technical",
+      "description": "Mounting photovoltaic solar modules with secure wind-load brackets and azimuth angle calibration.",
+      "associatedCareerIds": [
+        "solar-technician"
+      ],
+      "demandLevel": "Very High"
+    },
+    {
+      "id": "SKILL-02",
+      "name": "Electrical Circuit Wiring & Earthing",
+      "category": "Technical",
+      "description": "Single and three-phase wiring, conduit bending, earth pit resistance testing, and MCB protection.",
+      "associatedCareerIds": [
+        "solar-technician",
+        "electrician"
+      ],
+      "demandLevel": "Very High"
+    },
+    {
+      "id": "SKILL-03",
+      "name": "Remote Drone Flight & GPS Navigation",
+      "category": "Digital & Tech",
+      "description": "DGCA compliant RPAS flying, telemetry monitoring, fail-safe RTL programming, and payload spray calibration.",
+      "associatedCareerIds": [
+        "drone-technician"
+      ],
+      "demandLevel": "High"
+    },
+    {
+      "id": "SKILL-04",
+      "name": "G-Code / M-Code CNC Programming",
+      "category": "Tool & Machine Operation",
+      "description": "Programming multi-axis CNC lathes and milling cutters with precise micrometer tolerances.",
+      "associatedCareerIds": [
+        "cnc-machinist"
+      ],
+      "demandLevel": "Very High"
+    },
+    {
+      "id": "SKILL-05",
+      "name": "TIG & MIG Shielded Arc Welding",
+      "category": "Technical",
+      "description": "Gas tungsten and metal inert gas welding on stainless steel and pressure vessels.",
+      "associatedCareerIds": [
+        "welder-fabricator"
+      ],
+      "demandLevel": "High"
+    },
+    {
+      "id": "SKILL-06",
+      "name": "High-Voltage Safety & PPE Compliance",
+      "category": "Safety",
+      "description": "Lockout-Tagout (LOTO) protocols, 10kV insulation safety, and emergency CPR protocols.",
+      "associatedCareerIds": [
+        "solar-technician",
+        "electrician",
+        "ev-technician"
+      ],
+      "demandLevel": "Very High"
+    },
+    {
+      "id": "SKILL-07",
+      "name": "Patient Vital Monitoring & First Aid",
+      "category": "Technical",
+      "description": "Taking blood pressure, pulse oximetry, sterile dressing, and patient emergency evacuation.",
+      "associatedCareerIds": [
+        "healthcare-gda"
+      ],
+      "demandLevel": "Very High"
+    },
+    {
+      "id": "SKILL-08",
+      "name": "Client Career Consultation & Mediation",
+      "category": "Soft Skills",
+      "description": "Active listening, empathy, conflict resolution between youth aspirations and parental anxieties.",
+      "associatedCareerIds": [
+        "counsellor"
+      ],
+      "demandLevel": "High"
+    }
+  ],
+  "training_providers": [
+    {
+      "id": "PROV-KAN-1",
+      "name": "Government ITI Pandu Nagar, Kanpur",
+      "type": "Govt ITI",
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "address": "Government ITI Pandu Nagar, Kanpur, Kanpur Nagar, Uttar Pradesh",
+      "trades": [
+        "Electrician",
+        "CNC Operator",
+        "Welder",
+        "Solar Technician"
+      ],
+      "contact": "0512-2296144 | itipandunagar@up.gov.in",
+      "source": "DGT State ITI Portal & MSDE National Portal",
+      "verificationStatus": "Verified",
+      "accreditationId": "DGT-ACC-1000"
+    },
+    {
+      "id": "PROV-KAN-2",
+      "name": "National Skill Training Institute (NSTI Kanpur)",
+      "type": "NSTI",
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "address": "National Skill Training Institute (NSTI Kanpur), Kanpur Nagar, Uttar Pradesh",
+      "trades": [
+        "Advanced Tool & Die",
+        "Industrial Automation",
+        "Solar PV"
+      ],
+      "contact": "0512-2225144 | nstikanpur@dgt.gov.in",
+      "source": "DGT State ITI Portal & MSDE National Portal",
+      "verificationStatus": "Verified",
+      "accreditationId": "DGT-ACC-1001"
+    },
+    {
+      "id": "PROV-KAN-3",
+      "name": "PMKK Skill Development Centre, Kalyanpur",
+      "type": "PMKVY Center",
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "address": "PMKK Skill Development Centre, Kalyanpur, Kanpur Nagar, Uttar Pradesh",
+      "trades": [
+        "Healthcare GDA",
+        "EV Powertrain Assistant",
+        "IT Network Support"
+      ],
+      "contact": "+91 94520 11234",
+      "source": "DGT State ITI Portal & MSDE National Portal",
+      "verificationStatus": "Verified",
+      "accreditationId": "DGT-ACC-1002"
+    },
+    {
+      "id": "PROV-VAR-1",
+      "name": "Government ITI Karaundi, Varanasi",
+      "type": "Govt ITI",
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "address": "Government ITI Karaundi, Varanasi, Varanasi, Uttar Pradesh",
+      "trades": [
+        "Solar PV Technician",
+        "Electrician",
+        "Electronics Mechanic"
+      ],
+      "contact": "0542-2570198",
+      "source": "DGT State ITI Portal & MSDE National Portal",
+      "verificationStatus": "Verified",
+      "accreditationId": "DGT-ACC-1010"
+    },
+    {
+      "id": "PROV-VAR-2",
+      "name": "NSTI (W) Varanasi (Women Specialized Campus)",
+      "type": "NSTI",
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "address": "NSTI (W) Varanasi (Women Specialized Campus), Varanasi, Uttar Pradesh",
+      "trades": [
+        "Beauty & Wellness",
+        "Apparel CAD & Garments",
+        "IT Network"
+      ],
+      "contact": "0542-2310892",
+      "source": "DGT State ITI Portal & MSDE National Portal",
+      "verificationStatus": "Verified",
+      "accreditationId": "DGT-ACC-1011"
+    },
+    {
+      "id": "PROV-VAR-3",
+      "name": "DDU Kaushal Kendra, BHU Campus",
+      "type": "Industry Partner Center",
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "address": "DDU Kaushal Kendra, BHU Campus, Varanasi, Uttar Pradesh",
+      "trades": [
+        "Healthcare Assistant",
+        "Food Quality Testing"
+      ],
+      "contact": "+91 98390 44551",
+      "source": "DGT State ITI Portal & MSDE National Portal",
+      "verificationStatus": "Verified",
+      "accreditationId": "DGT-ACC-1012"
+    },
+    {
+      "id": "PROV-PUN-1",
+      "name": "Government ITI Aundh, Pune",
+      "type": "Govt ITI",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "address": "Government ITI Aundh, Pune, Pune, Maharashtra",
+      "trades": [
+        "EV Diagnostics",
+        "CNC Machining",
+        "Mechatronics"
+      ],
+      "contact": "020-25881234",
+      "source": "DGT State ITI Portal & MSDE National Portal",
+      "verificationStatus": "Verified",
+      "accreditationId": "DGT-ACC-1020"
+    },
+    {
+      "id": "PROV-PUN-2",
+      "name": "Tata Motors Apprenticeship Training School, Pimpri",
+      "type": "Industry Partner Center",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "address": "Tata Motors Apprenticeship Training School, Pimpri, Pune, Maharashtra",
+      "trades": [
+        "Automotive Service Tech",
+        "EV Powertrain",
+        "Robotic Welding"
+      ],
+      "contact": "020-66133200",
+      "source": "DGT State ITI Portal & MSDE National Portal",
+      "verificationStatus": "Verified",
+      "accreditationId": "DGT-ACC-1021"
+    },
+    {
+      "id": "PROV-JAI-1",
+      "name": "Government ITI Bani Park, Jaipur",
+      "type": "Govt ITI",
+      "state": "Rajasthan",
+      "district": "Jaipur",
+      "address": "Government ITI Bani Park, Jaipur, Jaipur, Rajasthan",
+      "trades": [
+        "Solar PV Installation",
+        "Electrician",
+        "Draftsman"
+      ],
+      "contact": "0141-2200451",
+      "source": "DGT State ITI Portal & MSDE National Portal",
+      "verificationStatus": "Verified",
+      "accreditationId": "DGT-ACC-1030"
+    },
+    {
+      "id": "PROV-SUR-1",
+      "name": "Government ITI Majura Gate, Surat",
+      "type": "Govt ITI",
+      "state": "Gujarat",
+      "district": "Surat",
+      "address": "Government ITI Majura Gate, Surat, Surat, Gujarat",
+      "trades": [
+        "Heavy Fabrication Welder",
+        "CNC Milling",
+        "Solar PV"
+      ],
+      "contact": "0261-2651234",
+      "source": "DGT State ITI Portal & MSDE National Portal",
+      "verificationStatus": "Verified",
+      "accreditationId": "DGT-ACC-1040"
+    },
+    {
+      "id": "PROV-PAT-1",
+      "name": "Government ITI Digha Ghat, Patna",
+      "type": "Govt ITI",
+      "state": "Bihar",
+      "district": "Patna",
+      "address": "Government ITI Digha Ghat, Patna, Patna, Bihar",
+      "trades": [
+        "Electrician",
+        "Solar PV Installer",
+        "Motor Mechanic"
+      ],
+      "contact": "0612-2560124",
+      "source": "DGT State ITI Portal & MSDE National Portal",
+      "verificationStatus": "Verified",
+      "accreditationId": "DGT-ACC-1050"
+    }
+  ],
+  "local_opportunities": [
+    {
+      "id": "OPP-101",
+      "title": "Solar Rooftop Apprentice (PM Surya Ghar Scheme)",
+      "careerId": "solar-technician",
+      "careerTitle": "Solar PV System Installation & Maintenance Technician",
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "organization": "Tata Power Solar Rooftop EPC Partner",
+      "stipendOrSalary": "₹12,500/month stipend + NAPS Govt DBT",
+      "eligibility": "Class 10th or ITI Passed (Electrical/Solar)",
+      "type": "Apprenticeship (NAPS)",
+      "source": "National Apprenticeship Promotion Scheme (NAPS)",
+      "sourceDate": "2026-01-15",
+      "expiryDate": "2026-06-30",
+      "status": "Active"
+    },
+    {
+      "id": "OPP-102",
+      "title": "Agricultural Kisan Drone Pilot Associate",
+      "careerId": "drone-technician",
+      "careerTitle": "Drone Manufacturing & Remote Pilot Technician",
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "organization": "Purvanchal Agro-Drone FPO Services",
+      "stipendOrSalary": "₹18,000 - ₹24,000/month",
+      "eligibility": "Class 10th with Basic Computer Knowledge",
+      "type": "Direct Job",
+      "source": "Ministry of Civil Aviation / Sub-Mission on Agri Mechanization",
+      "sourceDate": "2026-02-01",
+      "expiryDate": "2026-08-31",
+      "status": "Active"
+    },
+    {
+      "id": "OPP-103",
+      "title": "CNC Machine Operator Trainee",
+      "careerId": "cnc-machinist",
+      "careerTitle": "CNC Machinist & Precision Tooling Operator",
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Nagar",
+      "organization": "Lohia Corp Machinery",
+      "stipendOrSalary": "₹14,000/month during 6-mo OJT",
+      "eligibility": "Class 10th with ITI Machinist/Fitter",
+      "type": "Skill Training Scheme",
+      "source": "Capital Goods Skill Council (CGSC)",
+      "sourceDate": "2026-01-20",
+      "expiryDate": "2026-07-15",
+      "status": "Active"
+    },
+    {
+      "id": "OPP-104",
+      "title": "Hospital Patient Care GDA Trainee",
+      "careerId": "healthcare-gda",
+      "careerTitle": "General Duty Healthcare Assistant (GDA)",
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "organization": "Apex Super-speciality Hospital & Research Center",
+      "stipendOrSalary": "₹11,000/month + Uniform & Meals",
+      "eligibility": "Class 10th Passed",
+      "type": "Apprenticeship (NAPS)",
+      "source": "Healthcare Sector Skill Council (HSSC)",
+      "sourceDate": "2026-02-10",
+      "expiryDate": "2026-09-30",
+      "status": "Active"
+    }
+  ],
+  "knowledge_sources": [
+    {
+      "id": "KB-101",
+      "title": "NCVET National Credit Framework (NCrF) Credit Accumulation Rules",
+      "source": "National Council for Vocational Education and Training (NCVET)",
+      "sourceType": "Official Gazette",
+      "publicationYear": 2026,
+      "region": "India (National)",
+      "category": "Vocational Education",
+      "summary": "Governs horizontal and vertical mobility between ITI certificates and higher academic education under NEP 2020.",
+      "documentUrl": "https://ncvet.gov.in/ncrf-guidelines",
+      "verificationStatus": "Verified",
+      "published": true,
+      "uploadedBy": "admin@hunarsetu.gov.in",
+      "createdAt": "2026-01-05T10:00:00.000Z",
+      "updatedAt": "2026-01-05T10:00:00.000Z"
+    },
+    {
+      "id": "KB-102",
+      "title": "AICTE Lateral Entry Norms: 2-Year ITI / Diploma to 2nd Year B.Tech",
+      "source": "All India Council for Technical Education (AICTE)",
+      "sourceType": "AICTE Regulation",
+      "publicationYear": 2026,
+      "region": "India (National)",
+      "category": "Education Pathways",
+      "summary": "Allows direct lateral admission into the second year of engineering (B.Tech/B.E.) for accredited vocational diploma holders.",
+      "documentUrl": "https://aicte-india.org/approval-process-handbook",
+      "verificationStatus": "Verified",
+      "published": true,
+      "uploadedBy": "admin@hunarsetu.gov.in",
+      "createdAt": "2026-01-08T11:30:00.000Z",
+      "updatedAt": "2026-01-08T11:30:00.000Z"
+    },
+    {
+      "id": "KB-103",
+      "title": "PM Surya Ghar Muft Bijli Yojana: Skilling Guidelines for Suryamitras",
+      "source": "Ministry of New and Renewable Energy (MNRE)",
+      "sourceType": "National Scheme",
+      "publicationYear": 2026,
+      "region": "India (National)",
+      "category": "Government Schemes",
+      "summary": "Outlines target of 1 crore rooftop installations and mandate to certify 3 lakh solar technicians with subsidized training.",
+      "documentUrl": "https://pmsuryaghar.gov.in/guidelines",
+      "verificationStatus": "Verified",
+      "published": true,
+      "uploadedBy": "admin@hunarsetu.gov.in",
+      "createdAt": "2026-01-12T09:00:00.000Z",
+      "updatedAt": "2026-01-12T09:00:00.000Z"
+    },
+    {
+      "id": "KB-104",
+      "title": "DGCA Remote Pilot Certification & Drone Operations Handbook",
+      "source": "Directorate General of Civil Aviation (DGCA)",
+      "sourceType": "Official Gazette",
+      "publicationYear": 2026,
+      "region": "India (National)",
+      "category": "Safety",
+      "summary": "Standard operating procedure for agricultural drone operations, Remote Pilot Certificate (RPC) issuance, and safety corridors.",
+      "documentUrl": "https://dgca.gov.in/drone-regulations",
+      "verificationStatus": "Verified",
+      "published": true,
+      "uploadedBy": "admin@hunarsetu.gov.in",
+      "createdAt": "2026-01-15T14:00:00.000Z",
+      "updatedAt": "2026-01-15T14:00:00.000Z"
+    },
+    {
+      "id": "KB-105",
+      "title": "DGT Craftsmen Training Scheme (CTS) Annual Wage & Placement Survey",
+      "source": "Directorate General of Training (DGT), MSDE",
+      "sourceType": "MSDE Report",
+      "publicationYear": 2026,
+      "region": "Uttar Pradesh, Maharashtra, Gujarat",
+      "category": "Careers",
+      "summary": "Empirical starting salaries across 10 engineering trades with 1-year and 3-year post-completion wage growth benchmarks.",
+      "documentUrl": "https://dgt.gov.in/annual-tracer-report",
+      "verificationStatus": "Verified",
+      "published": true,
+      "uploadedBy": "admin@hunarsetu.gov.in",
+      "createdAt": "2026-01-20T16:00:00.000Z",
+      "updatedAt": "2026-01-20T16:00:00.000Z"
+    }
+  ],
+  "admin_issues": [],
+  "admin_audit_logs": [],
+  "admin_settings": {
+    "platformName": "HunarSetu (हुनर सेतु) - Career Guidance Platform",
+    "supportContact": "support@hunarsetu.gov.in | Toll-Free 1800-120-SKILL",
+    "defaultLanguage": "hi",
+    "sessionDurationMinutes": 30,
+    "cancellationPolicy": "Cancellations must be requested at least 2 hours prior to scheduled session.",
+    "aiEnabled": true,
+    "ragEnabled": true,
+    "humanEscalationRequired": true,
+    "noJobGuaranteeEnforced": true,
+    "noSalaryGuaranteeEnforced": true,
+    "uncertaintyWording": "I do not have enough verified government data to state this with absolute certainty. Let us consult a certified human counsellor.",
+    "demoMode": false
+  },
+  "admin_announcements": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "HunarSetu - Family Vocational Career Decision System",
+  "description": "AI-enabled career counselling and family decision-support platform for vocational education and NSQF pathways in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
